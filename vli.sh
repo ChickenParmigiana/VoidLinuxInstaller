@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # Author:      Le0xFF
 # Script name: vli.sh
